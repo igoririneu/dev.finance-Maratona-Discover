@@ -1,5 +1,5 @@
 <h1 align="center">
-<img alt="Logo da aplicação." src="./assets/logo.svg">
+<img alt="Logo da aplicação." src="./assets/logo-github.png">
 
 <br>
 <a href="https://programadorbr.com/">
