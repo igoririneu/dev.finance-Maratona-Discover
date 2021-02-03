@@ -6,7 +6,7 @@
 <img alt="Logo da RocketSeat" src="./assets/rocketseat.png">
 </a></h1>
 
-<h2 align="center"> Um projeto de Controle Fincanceiro construído durante o evento da Maratona Discover.</h2>
+<h2 align="center"> Um projeto de controle financeiro construído durante o evento Maratona Discover da RocketSeat.</h2>
 
 <br>
 
